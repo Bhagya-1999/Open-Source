@@ -17,3 +17,9 @@
 <h3 align="left">13. File Operation </h3>
 <h3 align="left">14. Filter Out the Narcissistic Numbers (Lambda Streams) </h3>
 <h3 align="left"> 15. Reference Methods </h3>
+
+
+
+<footer>--------------------------------------------------------------------------------------------------------------------------------------------------------------</footer>
+
+<p align="right" style="BOLD"> Any Queries related to Code ask me any time </p> 
